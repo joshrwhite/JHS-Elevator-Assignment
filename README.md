@@ -5,7 +5,7 @@ In this project, you will use your knowledge of flowchart programming with fisch
 
 ## Design Brief
 
-A company has completed market research and found that opening a sector for residential elevators would be a source of increased revenue for the company. Your team must design the control system and a prototype of an elevator that can go between three floors in any combination (fist to third, third to second, second to third, etc.). The prototype must include a set of three switches to represent each floor inside the elevator. On the ground floor, there must be a set of three lights to indicate where the elevator is currently located. Code requirements dictate that safety mechanism must be built in to the elevator's control system so that it may normally rest on the ground floor and return to the ground floor after a user-determined period of inactivity.
+A company has completed market research and found that opening a sector for residential elevators would be a source of increased revenue for the company. Your team must design the control system and a prototype of an elevator that can go between three floors in any combination (first to third, third to second, second to third, etc.). The prototype must include a set of three switches to represent each floor inside the elevator. On the ground floor, there must be a set of three lights to indicate where the elevator is currently located. Code requirements dictate that safety mechanism must be built in to the elevator's control system so that it may normally rest on the ground floor and return to the ground floor after a user-determined period of inactivity.
 
 ## Further Project Requirements
 
