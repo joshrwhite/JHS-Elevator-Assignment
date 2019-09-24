@@ -3,15 +3,31 @@ Digital Electronics (non-PLTW) Course
 
 In this project, you will use your knowledge of flowchart programming with fischertechnik ROBOPro (available to download [here](https://www.fischertechnik.de/en/service/downloads/robotics)). Passing the project means completing all design deliverables set by the customer below.
 
+[//]: # (Image References)
+
+[image1]: https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/Images/Rubric_PhysicalDesign.jpg "Rubric1"
+[image2]: https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/Images/Rubric_SoftwareDesign.jpg "Rubric2"
+
+
 ## Design Brief
 
 A company has completed market research and found that opening a sector for residential elevators would be a source of increased revenue for the company. Your team must design the control system and a prototype of an elevator that can go between three floors in any combination (first to third, third to second, second to third, etc.). The prototype must include a set of three switches to represent each floor inside the elevator. On the ground floor, there must be a set of three lights to indicate where the elevator is currently located. Code requirements dictate that safety mechanism must be built in to the elevator's control system so that it may normally rest on the ground floor and return to the ground floor after a user-determined period of inactivity.
 
 ## Further Project Requirements
 
-1. The design and prototype implementation must be completed using fischertechnik compnents and the ROBOPro programming software.
+1. The design and prototype implementation must be completed using fischertechnik components and the ROBOPro programming software.
 2. Comments in the code should communicate each functions intended purpose clearly.
 3. While successful completion of the project means that the design constraints found in the Design Brief are met, A+ work will be awarded to projects that show creativity in meeting these objects.
+
+## Rubric
+
+Physical Construction:
+
+![Rubric1][image1]
+
+ROBOPro Programming Software:
+
+![Rubric2][image2]
 
 ## Repository Navigation
 
