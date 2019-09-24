@@ -9,9 +9,17 @@ A company has completed market research and found that opening a sector for resi
 
 ## Further Project Requirements
 
-1. The design and prototype implementation must be completed using fischertechnik compnents and the ROBOPro programming software.
+1. The design and prototype implementation must be completed using fischertechnik components and the ROBOPro programming software.
 2. Comments in the code should communicate each functions intended purpose clearly.
 3. While successful completion of the project means that the design constraints found in the Design Brief are met, A+ work will be awarded to projects that show creativity in meeting these objects.
+
+## Rubric
+
+Physical Design/Construction
+| Criteria         		|     5 Points	        					|      3 Points	        					|       0 Points	        					| 
+|:---------------------:|:---------------------------------------:|:-----------------------------------------:|:----------------------------------------:|
+| Design Constraints		| All aspects of the design brief met			|  Most aspects of the design brief met			|   No aspects of the design brief met			|
+| Quality and Function 	| Function is repeatable 100% of the time | Function is repeatable more than half of the time 	| Function is not repeatable 	|
 
 ## Repository Navigation
 
