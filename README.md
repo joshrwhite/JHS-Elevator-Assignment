@@ -5,8 +5,8 @@ In this project, you will use your knowledge of flowchart programming with fisch
 
 [//]: # (Image References)
 
-[image1]: https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/Images/Rubric_PhysicalDesign.jpg "Rubric1"
-[image2]: https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/Images/Rubric_SoftwareDesign.jpg "Rubric2"
+[image1]: https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/Images/Rubric_PhysicalDesign.PNG "Rubric1"
+[image2]: https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/Images/Rubric_SoftwareDesign.PNG "Rubric2"
 
 
 ## Design Brief
