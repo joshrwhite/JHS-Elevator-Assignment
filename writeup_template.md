@@ -58,4 +58,4 @@ Here is where the code is implemented and integrating with my physical build:
 
 ### Output Video
 
-You can find video of the automated elevator at this [YouTube link](https://www.youtube.com/watch?v=bJARWhyIkRM&feature=youtu.be)
+You can find video of the automated elevator at this [YouTube link](https://www.youtube.com)
