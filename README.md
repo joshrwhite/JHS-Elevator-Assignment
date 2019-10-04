@@ -18,7 +18,7 @@ A company has completed market research and found that opening a sector for resi
 1. The design and prototype implementation must be completed using fischertechnik components and the ROBOPro programming software.
 2. Comments in the code should communicate each functions intended purpose clearly.
 3. The final write up is professional with descriptive pictures of your elevator prototype and program.
-4. A final video is provided (can easily be linked through the use of a markdown (.md) file.
+4. A final video is provided (can easily be linked through the use of a markdown (.md) file).
    - You can use the [writeup_template.md](https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/writeup_template.md) in the repository
 5. While successful completion of the project means that the design constraints found in the Design Brief are met, A+ work will be awarded to projects that show creativity in meeting these objects.
 
