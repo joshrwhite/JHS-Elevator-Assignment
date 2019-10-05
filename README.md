@@ -11,16 +11,17 @@ In this project, you will use your knowledge of flowchart programming with fisch
 
 ## Design Brief
 
-A company has completed market research and found that opening a sector for residential elevators would be a source of increased revenue for the company. Your team must design the control system and a prototype of an elevator that can go between three floors in any combination (first to third, third to second, second to third, etc.). The prototype must include a set of three switches to represent each floor inside the elevator. On the ground floor, there must be a set of three lights to indicate where the elevator is currently located. Code requirements dictate that safety mechanism must be built in to the elevator's control system so that it may normally rest on the ground floor and return to the ground floor after a user-determined period of inactivity.
+A company has completed market research and found that opening a sector for residential elevators would be a source of increased revenue for the company. Your team must design the control system and a prototype of an elevator that can go between three floors in any combination (first to third, third to second, second to third, etc.). The prototype must include a set of three switches to represent each floor inside the elevator. On the ground floor, there must be a set of three lights to indicate where the elevator is currently located. Code requirements dictate that a safety mechanism must be built in to the elevator's control system so that it may normally rest on the ground floor and return to the ground floor after a user-determined period of inactivity.
 
 ## Further Project Requirements
 
 1. The design and prototype implementation must be completed using fischertechnik components and the ROBOPro programming software.
 2. Comments in the code should communicate each functions intended purpose clearly.
 3. The final write up is professional with descriptive pictures of your elevator prototype and program.
-4. A final video is provided (can easily be linked through the use of a markdown (.md) file).
-   - You can use the [writeup_template.md](https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/writeup_template.md) in the repository
-5. While successful completion of the project means that the design constraints found in the Design Brief are met, A+ work will be awarded to projects that show creativity in meeting these objects.
+4. A final video is provided (which can easily be linked through the use of a markdown (.md) file).
+   - The [writeup_template.md](https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/writeup_template.md) file in the repository, can be used to fulfill requirements 3 & 4.
+5. The final submission will be a link to your GitHub repository for this project, so please maintain a professional digital environment.
+6. While successful completion of the project means that the design constraints found in the Design Brief are met, A+ work will be awarded to projects that show creativity in meeting these objectives.
 
 ## Rubric
 
@@ -34,7 +35,9 @@ ROBOPro Programming Software:
 
 ## Repository Navigation
 
-Aside from the `README.md` file, there is an `.rpp` file for an example of the elevator that meets most, but not all of the design constraint. The example ROBOPro program shows the basic branch and variable functions of a closed-loop system. These can be mimicked, but blatant plagiarism will be penalized.
+Aside from the `README.md` file and supporting documents, there is an `.rpp` file for an example of the elevator that meets most, but not all of the design constraint. The example ROBOPro program shows the basic branch and variable functions of a closed-loop system. These can be mimicked, but blatant plagiarism will be penalized.
+
+There is also a `writeup_template.md` file which can be used as a starting point for the final report.
 
 ## Downloading ROBOPro
 
