@@ -1,7 +1,7 @@
 # JHS-Elevator-Assignment
 Digital Electronics (non-PLTW) Course
 
-In this project, you will use your knowledge of flowchart programming with fischertechnik ROBOPro (available to download [here](https://www.fischertechnik.de/en/service/downloads/robotics)). Passing the project means completing all design deliverables set by the customer below.
+In this project, you will use your knowledge of flowchart programming with fischertechnik ROBOPro (available to download [here](https://www.fischertechnik.de/en/service/downloads/robotics)) to create the control system and a prototype for a three-floor elevator. Passing the project means completing all design deliverables set by the customer below.
 
 [//]: # (Image References)
 
@@ -42,4 +42,3 @@ There is also a `writeup_template.md` file which can be used as a starting point
 ## Downloading ROBOPro
 
 After going to the download [URL](https://www.fischertechnik.de/en/service/downloads/robotics), click on the "ROBOPro" down arrow. Install using the "Update ROBOPro 4.4.4 (MSI, 266MB)" version as the Demoversion will not allow compatibility with a ROBO Interface or TX/TXT Controller. Make sure to install all drivers so that the USB is able to be read by the computer.
-
