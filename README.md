@@ -16,7 +16,7 @@ A company has completed market research and found that opening a sector for resi
 ## Further Project Requirements
 
 1. The design and prototype implementation must be completed using fischertechnik components and the ROBOPro programming software.
-2. Comments in the code should communicate each functions intended purpose clearly.
+2. Comments in the code should communicate each function's intended purpose clearly.
 3. The final write up is professional with descriptive pictures of your elevator prototype and program.
 4. A final video is provided (which can easily be linked through the use of a markdown (.md) file).
    - The [writeup_template.md](https://github.com/joshrwhite/JHS-Elevator-Assignment/blob/master/writeup_template.md) file in the repository, can be used to fulfill requirements 3 & 4.
